@@ -5,5 +5,3 @@ This repository hosts the official Privacy Policy for the **Brekio** app using G
 - **Live Policy**: [https://github.io](https://pauljohn25.github.io/brekio-privacy/)
 - **App Name**: Brekio
 
-## 🛠 Maintenance
-To update the policy, edit the `index.html` file in this repository.

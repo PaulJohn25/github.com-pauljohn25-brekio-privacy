@@ -6,4 +6,4 @@ This repository hosts the official Privacy Policy for the **Brekio** app using G
 - **App Name**: Brekio
 
 ## 🛠 Maintenance
-To update the policy, edit the `index.md` file in this repository.
+To update the policy, edit the `index.html` file in this repository.
